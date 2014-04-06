@@ -4,7 +4,6 @@ if (!defined('BASEPATH'))
     exit('No direct script access allowed');
 
 class Admin_controller extends MY_admincontroller {
-	
 
     function index() {
 	$data['main_content'] = 'admin/admin_panel';
