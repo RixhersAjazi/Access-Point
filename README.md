@@ -1,6 +1,6 @@
 Access-Point
 ============
-Usage statisitcs at my local university:
+Usage statisitcs at my local university (10 months):<br>
 ~20,000 support tickets<br>
 ~2,000 unique students<br>
 ~2,500 unique sessions with students who walked in<br>
