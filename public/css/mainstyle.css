@@ -1,0 +1,118 @@
+#wrapper{
+	width: 650px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+/*This is the main body tag 
+ * 
+ */body {
+	font-family: Arial;
+	background-color: #FFFFFF;	
+	padding: 0px 0px 0px 0px; 	
+	color: #2E3336;
+	background-image: url('../images/mainbackground.jpg');
+	background-repeat:no-repeat;
+	background-position: top; 
+}
+
+/*Sunyorange Banner id
+ * 
+ */#header img {
+	display: inline-block;
+	width: 650px;
+	height: 160px;
+}
+
+/*The Login Form id
+ * 
+ */#login_form {
+	display: block;
+	width: 350px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 1em;
+	-webkit-border-radius: 3px;
+	color: #000000;
+}
+
+/*This ends the login form specific styling*/
+
+/*This is the create_account.php styling*/ 
+#create_form {
+	display: block;
+	width: 350px;
+	margin-top: auto;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 1px;
+	-webkit-border-radius: 3px;
+	color: #000000;
+}
+
+/*This ends the create_account.php styling*/
+
+/*request_account.php styling
+ * 
+ */
+#request_form {
+	display: block;
+	width: 350px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 1px;
+	-webkit-border-radius: 3px;
+	color: #000000;
+}
+
+/*All error styling is done via this class
+ * 
+ */
+.error {
+	display: block;
+	font-size: 15px;
+	text-align: center;
+	color: #ff0000;
+	font-weight: bold;
+}
+
+#studentsignin { 
+	display: block;
+	width: 350px;
+	margin-top: 1px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 1px;
+	color: #000000;
+}
+
+
+#terminate_form {
+	display: block;
+	width: 350px;
+	margin-top: 1px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 1px;
+	color: #000000;
+}
+
+#stop_form {
+	display: block;
+	width: 350px;
+	margin-top: 1px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 1px;
+	color: #000000;
+}
+
+#abandon_form {
+	display: block;
+	width: 350px;
+	margin-top: 1px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 1px;
+	color: #000000;
+}
